@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="example_title">Dota: Dragon\'s Blood</string>
+    <string name="example_overview">A conflicted yet courageous Dragon Knight must use the power of the dragon within to stop a deadly demon in this epic fantasy based on the online game.</string>
+</resources>
